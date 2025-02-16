@@ -1,0 +1,5 @@
+C:/ST/Proyecto final 2/4100901-Final_Project_2024_2_Ring_Buffer/build/Debug/CMakeFiles/Project.dir
+C:/ST/Proyecto final 2/4100901-Final_Project_2024_2_Ring_Buffer/build/Debug/CMakeFiles/edit_cache.dir
+C:/ST/Proyecto final 2/4100901-Final_Project_2024_2_Ring_Buffer/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/ST/Proyecto final 2/4100901-Final_Project_2024_2_Ring_Buffer/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/ST/Proyecto final 2/4100901-Final_Project_2024_2_Ring_Buffer/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
